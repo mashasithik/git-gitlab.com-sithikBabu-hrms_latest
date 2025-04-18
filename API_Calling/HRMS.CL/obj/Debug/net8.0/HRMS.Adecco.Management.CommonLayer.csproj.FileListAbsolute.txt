@@ -1,0 +1,12 @@
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\bin\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.deps.json
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\bin\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\bin\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.pdb
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\obj\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\obj\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.AssemblyInfoInputs.cache
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\obj\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.AssemblyInfo.cs
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\obj\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.csproj.CoreCompileInputs.cache
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\obj\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\obj\Debug\net8.0\refint\HRMS.Adecco.Management.CommonLayer.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\obj\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.pdb
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\obj\Debug\net8.0\ref\HRMS.Adecco.Management.CommonLayer.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.CommonLayer\obj\Debug\net8.0\HRMS.Adecco.Management.CommonLayer.sourcelink.json

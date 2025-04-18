@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "79bs+nD+YwHnNwe2vfYf+yBc6+5dGXnocBzY74JpvJ4=",
+  "Source": "HRMS.Management.WebAPI",
+  "BasePath": "_content/HRMS.Management.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,13 @@
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\bin\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.deps.json
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\bin\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\bin\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.pdb
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.csproj.AssemblyReference.cache
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.AssemblyInfoInputs.cache
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.AssemblyInfo.cs
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.csproj.CoreCompileInputs.cache
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\refint\HRMS.Adecco.Management.Common.MariaDBAccess.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.pdb
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\ref\HRMS.Adecco.Management.Common.MariaDBAccess.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Adecco.Management.Common.MariaDBAccess.sourcelink.json

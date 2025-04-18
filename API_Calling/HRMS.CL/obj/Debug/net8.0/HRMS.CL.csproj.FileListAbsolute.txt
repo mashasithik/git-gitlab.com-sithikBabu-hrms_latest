@@ -1,0 +1,11 @@
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\bin\Debug\net8.0\HRMS.CL.deps.json
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\bin\Debug\net8.0\HRMS.CL.dll
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\bin\Debug\net8.0\HRMS.CL.pdb
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\obj\Debug\net8.0\HRMS.CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\obj\Debug\net8.0\HRMS.CL.AssemblyInfoInputs.cache
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\obj\Debug\net8.0\HRMS.CL.AssemblyInfo.cs
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\obj\Debug\net8.0\HRMS.CL.csproj.CoreCompileInputs.cache
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\obj\Debug\net8.0\HRMS.CL.dll
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\obj\Debug\net8.0\refint\HRMS.CL.dll
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\obj\Debug\net8.0\HRMS.CL.pdb
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.CL\obj\Debug\net8.0\ref\HRMS.CL.dll

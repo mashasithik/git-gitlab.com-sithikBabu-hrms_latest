@@ -1,0 +1,13 @@
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\bin\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.deps.json
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\bin\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\bin\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.pdb
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.csproj.AssemblyReference.cache
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.AssemblyInfoInputs.cache
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.AssemblyInfo.cs
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.csproj.CoreCompileInputs.cache
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\refint\HRMS.Adecco.Management.MSSQLDataAccess.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.pdb
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\ref\HRMS.Adecco.Management.MSSQLDataAccess.dll
+C:\Karthik\Projects\Interview_Assesement\Adecco_HMS\Backend\HRMS.Adecco.Management.MSSQLDataAccess\obj\Debug\net8.0\HRMS.Adecco.Management.MSSQLDataAccess.sourcelink.json

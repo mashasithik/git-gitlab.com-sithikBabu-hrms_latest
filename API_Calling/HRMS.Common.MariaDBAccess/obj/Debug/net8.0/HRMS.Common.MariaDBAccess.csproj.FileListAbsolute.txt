@@ -1,0 +1,12 @@
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\bin\Debug\net8.0\HRMS.Common.MariaDBAccess.deps.json
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\bin\Debug\net8.0\HRMS.Common.MariaDBAccess.dll
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\bin\Debug\net8.0\HRMS.Common.MariaDBAccess.pdb
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Common.MariaDBAccess.csproj.AssemblyReference.cache
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Common.MariaDBAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Common.MariaDBAccess.AssemblyInfoInputs.cache
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Common.MariaDBAccess.AssemblyInfo.cs
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Common.MariaDBAccess.csproj.CoreCompileInputs.cache
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Common.MariaDBAccess.dll
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\obj\Debug\net8.0\refint\HRMS.Common.MariaDBAccess.dll
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\obj\Debug\net8.0\HRMS.Common.MariaDBAccess.pdb
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.Common.MariaDBAccess\obj\Debug\net8.0\ref\HRMS.Common.MariaDBAccess.dll

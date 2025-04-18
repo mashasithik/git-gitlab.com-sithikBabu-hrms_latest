@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "afFG9bdBkAc=",
+  "success": true,
+  "projectFilePath": "C:\\Sithik\\Projects\\HRMS_latest\\hrms_assesment\\UI_Win\\HRMS.WinForms\\HRMS.WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sithik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

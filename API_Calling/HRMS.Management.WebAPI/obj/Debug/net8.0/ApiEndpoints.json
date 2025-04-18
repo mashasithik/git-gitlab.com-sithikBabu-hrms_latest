@@ -1,0 +1,218 @@
+[
+  {
+    "ContainingType": "HRMS.Management.WebAPI.Controllers.Master.DepartmentController",
+    "Method": "GetAllRoles",
+    "RelativePath": "api/Masters/Department/getDepartmentDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "HRMS.Management.Common.Master.DepartmentCollectionDataModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRMS.Management.WebAPI.Controllers.Master.LocationController",
+    "Method": "GetAllLocation",
+    "RelativePath": "api/Masters/Location/getLocationDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "HRMS.Management.Common.Master.LocationCollectionDataModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRMS.Management.WebAPI.Controllers.Master.RolesController",
+    "Method": "GetAllRoles",
+    "RelativePath": "api/Masters/Roles/getRolesDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "HRMS.Management.Common.Master.RolesCollectionDataModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRMS.Management.WebAPI.Controllers.Transaction.EmployeeController",
+    "Method": "DeleteEmployee",
+    "RelativePath": "api/Transaction/Employee/deleteEmployeeDetails",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRMS.Management.CommonLayer.ICoreResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRMS.Management.WebAPI.Controllers.Transaction.EmployeeController",
+    "Method": "GetAllEmployee",
+    "RelativePath": "api/Transaction/Employee/getEmployeeDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRMS.Management.Common.Transaction.EmployeesCollectionDataModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRMS.Management.WebAPI.Controllers.Transaction.EmployeeController",
+    "Method": "PostEmployee",
+    "RelativePath": "api/Transaction/Employee/postEmployeeDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeData",
+        "Type": "HRMS.Management.Common.Transaction.EmployeesModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRMS.Management.CommonLayer.ICoreResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRMS.Management.WebAPI.Controllers.Transaction.JobHistoryController",
+    "Method": "DeleteJobHistoryDetails",
+    "RelativePath": "api/Transaction/JobHistory/deleteJobHistoryDetails",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobHistoryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRMS.Management.CommonLayer.ICoreResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRMS.Management.WebAPI.Controllers.Transaction.JobHistoryController",
+    "Method": "GetJobHistoryDetails",
+    "RelativePath": "api/Transaction/JobHistory/getJobHistoryDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRMS.Management.Common.Transaction.JobHistoryCollectionDataModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HRMS.Management.WebAPI.Controllers.Transaction.JobHistoryController",
+    "Method": "PostJobHistoryDetails",
+    "RelativePath": "api/Transaction/JobHistory/postJobHistoryDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobHistory",
+        "Type": "HRMS.Management.Common.Transaction.JobHistory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HRMS.Management.CommonLayer.ICoreResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

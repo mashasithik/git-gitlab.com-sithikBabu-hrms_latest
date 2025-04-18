@@ -1,0 +1,8 @@
+{
+  "HRMS.Adecco.Management.BusinessAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer",
+  "HRMS.Adecco.Management.Common.MariaDBAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.Common.MariaDBAccess",
+  "HRMS.Adecco.Management.CommonLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer",
+  "HRMS.Adecco.Management.DataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer",
+  "HRMS.Adecco.Management.MSSQLDataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.MSSQLDataAccess",
+  "HRMS.Management.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Management.WebAPI"
+}

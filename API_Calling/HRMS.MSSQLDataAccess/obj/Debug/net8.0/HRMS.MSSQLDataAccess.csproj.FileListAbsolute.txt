@@ -1,0 +1,12 @@
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\bin\Debug\net8.0\HRMS.MSSQLDataAccess.deps.json
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\bin\Debug\net8.0\HRMS.MSSQLDataAccess.dll
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\bin\Debug\net8.0\HRMS.MSSQLDataAccess.pdb
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\obj\Debug\net8.0\HRMS.MSSQLDataAccess.csproj.AssemblyReference.cache
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\obj\Debug\net8.0\HRMS.MSSQLDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\obj\Debug\net8.0\HRMS.MSSQLDataAccess.AssemblyInfoInputs.cache
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\obj\Debug\net8.0\HRMS.MSSQLDataAccess.AssemblyInfo.cs
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\obj\Debug\net8.0\HRMS.MSSQLDataAccess.csproj.CoreCompileInputs.cache
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\obj\Debug\net8.0\HRMS.MSSQLDataAccess.dll
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\obj\Debug\net8.0\refint\HRMS.MSSQLDataAccess.dll
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\obj\Debug\net8.0\HRMS.MSSQLDataAccess.pdb
+C:\Sithik\Projects\HRMS_latest\hrms_assesment\API_Calling\HRMS.MSSQLDataAccess\obj\Debug\net8.0\ref\HRMS.MSSQLDataAccess.dll

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "..\\UI_Win\\HRMS.WinForms\\HRMS.WinForms.csproj",
+        "Action": "Start",
+        "DebugTarget": "HRMS.WinForms"
+      }
+    ]
+  }
+]
