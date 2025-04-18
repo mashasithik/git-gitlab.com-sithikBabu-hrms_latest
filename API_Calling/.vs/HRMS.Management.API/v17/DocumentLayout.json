@@ -1,0 +1,688 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{775AA035-8EFC-9605-AED5-11B4685497BE}|..\\UI_Win\\HRMS.Management.WinForms\\HRMS.Management.WinForms.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\ui_win\\hrms.management.winforms\\hrms.management.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775AA035-8EFC-9605-AED5-11B4685497BE}|..\\UI_Win\\HRMS.Management.WinForms\\HRMS.Management.WinForms.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\ui_win\\hrms.management.winforms\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.dataaccesslayer\\transaction\\jobhistorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|solutionrelative:hrms.management.dataaccesslayer\\transaction\\jobhistorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.dataaccesslayer\\transaction\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|solutionrelative:hrms.management.dataaccesslayer\\transaction\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.dataaccesslayer\\master\\rolesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|solutionrelative:hrms.management.dataaccesslayer\\master\\rolesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.dataaccesslayer\\master\\locationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|solutionrelative:hrms.management.dataaccesslayer\\master\\locationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.dataaccesslayer\\master\\departmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D749E16-D624-674F-21C6-4E563D082681}|HRMS.Management.DataAccessLayer\\HRMS.Management.DataAccessLayer.csproj|solutionrelative:hrms.management.dataaccesslayer\\master\\departmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3514B5-9885-3021-0BB4-440192ABB47B}|HRMS.Management.BusinessAccessLayer\\HRMS.Management.BusinessAccessLayer.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.businessaccesslayer\\transaction\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3514B5-9885-3021-0BB4-440192ABB47B}|HRMS.Management.BusinessAccessLayer\\HRMS.Management.BusinessAccessLayer.csproj|solutionrelative:hrms.management.businessaccesslayer\\transaction\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.webapi\\controllers\\transaction\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|solutionrelative:hrms.management.webapi\\controllers\\transaction\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3514B5-9885-3021-0BB4-440192ABB47B}|HRMS.Management.BusinessAccessLayer\\HRMS.Management.BusinessAccessLayer.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.businessaccesslayer\\master\\locationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3514B5-9885-3021-0BB4-440192ABB47B}|HRMS.Management.BusinessAccessLayer\\HRMS.Management.BusinessAccessLayer.csproj|solutionrelative:hrms.management.businessaccesslayer\\master\\locationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.webapi\\controllers\\master\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|solutionrelative:hrms.management.webapi\\controllers\\master\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897069D5-F016-B0D9-82D7-4432DC888554}|HRMS.Management.Common.MariaDBAccess\\HRMS.Management.Common.MariaDBAccess.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.common.mariadbaccess\\dbmysqlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897069D5-F016-B0D9-82D7-4432DC888554}|HRMS.Management.Common.MariaDBAccess\\HRMS.Management.Common.MariaDBAccess.csproj|solutionrelative:hrms.management.common.mariadbaccess\\dbmysqlcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2500F8-D3AB-2FD1-D429-0F298C49625D}|HRMS.Management.CommonLayer\\HRMS.Management.CommonLayer.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.commonlayer\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2500F8-D3AB-2FD1-D429-0F298C49625D}|HRMS.Management.CommonLayer\\HRMS.Management.CommonLayer.csproj|solutionrelative:hrms.management.commonlayer\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|solutionrelative:hrms.management.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|solutionrelative:hrms.management.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.webapi\\hrms.management.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|solutionrelative:hrms.management.webapi\\hrms.management.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.webapi\\controllers\\master\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|solutionrelative:hrms.management.webapi\\controllers\\master\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.webapi\\controllers\\master\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|solutionrelative:hrms.management.webapi\\controllers\\master\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.webapi\\controllers\\transaction\\jobhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|solutionrelative:hrms.management.webapi\\controllers\\transaction\\jobhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|c:\\sithik\\projects\\hrms_sithik\\hrms_application\\api_calling\\hrms.management.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5941391B-D846-463B-9AD2-6B3B4B3044BF}|HRMS.Management.WebAPI\\HRMS.Management.WebAPI.csproj|solutionrelative:hrms.management.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\EmployeeData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\DepartmentData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Frontend\\HRMS.Adecco.Management.WinForms\\EmployeeDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\karthik\\projects\\interview_assesement\\adecco_hms\\frontend\\hrms.adecco.management.winforms\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.Common.MariaDBAccess\\DBMySqlCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\RolesData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\JobHistoryData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\LocationData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\LocationBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\DepartmentBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\RolesBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Transaction\\EmployeesModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\JobHistoryBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\EmployeeBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.MSSQLDataAccess\\DBMSSQLCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\CoreData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\ICoreData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\ICoreData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRMS.Management.WinForms",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\UI_Win\\HRMS.Management.WinForms\\HRMS.Management.WinForms.csproj",
+              "RelativeDocumentMoniker": "..\\UI_Win\\HRMS.Management.WinForms\\HRMS.Management.WinForms.csproj",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\UI_Win\\HRMS.Management.WinForms\\HRMS.Management.WinForms.csproj*",
+              "RelativeToolTip": "..\\UI_Win\\HRMS.Management.WinForms\\HRMS.Management.WinForms.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T02:24:18.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\UI_Win\\HRMS.Management.WinForms\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "..\\UI_Win\\HRMS.Management.WinForms\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\UI_Win\\HRMS.Management.WinForms\\EmployeeDetails.cs",
+              "RelativeToolTip": "..\\UI_Win\\HRMS.Management.WinForms\\EmployeeDetails.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAjwLEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:23:37.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolesData.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Master\\RolesData.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.DataAccessLayer\\Master\\RolesData.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Master\\RolesData.cs",
+              "RelativeToolTip": "HRMS.Management.DataAccessLayer\\Master\\RolesData.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:41:45.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationData.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Master\\LocationData.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.DataAccessLayer\\Master\\LocationData.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Master\\LocationData.cs",
+              "RelativeToolTip": "HRMS.Management.DataAccessLayer\\Master\\LocationData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA4wCAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:40:59.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentData.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Master\\DepartmentData.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.DataAccessLayer\\Master\\DepartmentData.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Master\\DepartmentData.cs",
+              "RelativeToolTip": "HRMS.Management.DataAccessLayer\\Master\\DepartmentData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:36:57.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobHistoryData.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Transaction\\JobHistoryData.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.DataAccessLayer\\Transaction\\JobHistoryData.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Transaction\\JobHistoryData.cs",
+              "RelativeToolTip": "HRMS.Management.DataAccessLayer\\Transaction\\JobHistoryData.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAewEUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:35:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Transaction\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.DataAccessLayer\\Transaction\\EmployeeData.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.DataAccessLayer\\Transaction\\EmployeeData.cs",
+              "RelativeToolTip": "HRMS.Management.DataAccessLayer\\Transaction\\EmployeeData.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIA4wFEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:23:51.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.BusinessAccessLayer\\Transaction\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.BusinessAccessLayer\\Transaction\\EmployeeBL.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.BusinessAccessLayer\\Transaction\\EmployeeBL.cs",
+              "RelativeToolTip": "HRMS.Management.BusinessAccessLayer\\Transaction\\EmployeeBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:23:37.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationBL.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.BusinessAccessLayer\\Master\\LocationBL.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.BusinessAccessLayer\\Master\\LocationBL.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.BusinessAccessLayer\\Master\\LocationBL.cs",
+              "RelativeToolTip": "HRMS.Management.BusinessAccessLayer\\Master\\LocationBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:23:11.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBMySqlCommand.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.Common.MariaDBAccess\\DBMySqlCommand.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.Common.MariaDBAccess\\DBMySqlCommand.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.Common.MariaDBAccess\\DBMySqlCommand.cs",
+              "RelativeToolTip": "HRMS.Management.Common.MariaDBAccess\\DBMySqlCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:21:07.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.CommonLayer\\Constants.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.CommonLayer\\Constants.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.CommonLayer\\Constants.cs",
+              "RelativeToolTip": "HRMS.Management.CommonLayer\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:19:30.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Common.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Common.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Common.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Common.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:15:42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DepartmentData.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\DepartmentData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\DepartmentData.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\DepartmentData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\DepartmentData.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:14:29.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Frontend\\HRMS.Adecco.Management.WinForms\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Frontend\\HRMS.Adecco.Management.WinForms\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Frontend\\HRMS.Adecco.Management.WinForms\\EmployeeDetails.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Frontend\\HRMS.Adecco.Management.WinForms\\EmployeeDetails.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:34:40.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Program.cs",
+              "RelativeToolTip": "HRMS.Management.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:50:33.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HRMS.Management.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\appsettings.json",
+              "RelativeToolTip": "HRMS.Management.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T09:26:10.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Master\\LocationController.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.WebAPI\\Controllers\\Master\\LocationController.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Master\\LocationController.cs",
+              "RelativeToolTip": "HRMS.Management.WebAPI\\Controllers\\Master\\LocationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:09:49.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Transaction\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.WebAPI\\Controllers\\Transaction\\EmployeeController.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Transaction\\EmployeeController.cs",
+              "RelativeToolTip": "HRMS.Management.WebAPI\\Controllers\\Transaction\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:24:35.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\EmployeeData.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\EmployeeData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\EmployeeData.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwCAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:48:05.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HRMS.Management.WebAPI.http",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\HRMS.Management.WebAPI.http",
+              "RelativeDocumentMoniker": "HRMS.Management.WebAPI\\HRMS.Management.WebAPI.http",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\HRMS.Management.WebAPI.http",
+              "RelativeToolTip": "HRMS.Management.WebAPI\\HRMS.Management.WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-14T15:33:45.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DBMySqlCommand.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.Common.MariaDBAccess\\DBMySqlCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.Common.MariaDBAccess\\DBMySqlCommand.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.Common.MariaDBAccess\\DBMySqlCommand.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.Common.MariaDBAccess\\DBMySqlCommand.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwD4AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:56:56.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RolesData.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\RolesData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\RolesData.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\RolesData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\RolesData.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwC8AAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:24:18.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JobHistoryData.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\JobHistoryData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\JobHistoryData.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\JobHistoryData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Transaction\\JobHistoryData.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:17:06.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LocationData.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\LocationData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\LocationData.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\LocationData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\Master\\LocationData.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:03:27.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LocationBL.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\LocationBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\LocationBL.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\LocationBL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\LocationBL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:11:00.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DepartmentBL.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\DepartmentBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\DepartmentBL.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\DepartmentBL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\DepartmentBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:19:02.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Master\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.WebAPI\\Controllers\\Master\\DepartmentController.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Master\\DepartmentController.cs",
+              "RelativeToolTip": "HRMS.Management.WebAPI\\Controllers\\Master\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:40:48.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Roles.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Roles.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Roles.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Roles.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:22:30.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Master\\RolesController.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.WebAPI\\Controllers\\Master\\RolesController.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Master\\RolesController.cs",
+              "RelativeToolTip": "HRMS.Management.WebAPI\\Controllers\\Master\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:41:17.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RolesBL.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\RolesBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\RolesBL.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\RolesBL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Master\\RolesBL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:42:06.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobHistoryController.cs",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Transaction\\JobHistoryController.cs",
+              "RelativeDocumentMoniker": "HRMS.Management.WebAPI\\Controllers\\Transaction\\JobHistoryController.cs",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\Controllers\\Transaction\\JobHistoryController.cs",
+              "RelativeToolTip": "HRMS.Management.WebAPI\\Controllers\\Transaction\\JobHistoryController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:25:49.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Location.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Location.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Location.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:22:24.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Department.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Department.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Department.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Master\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:22:16.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeesModel.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Transaction\\EmployeesModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Transaction\\EmployeesModel.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Transaction\\EmployeesModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Transaction\\EmployeesModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:03:43.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JobHistoryBL.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\JobHistoryBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\JobHistoryBL.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\JobHistoryBL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\JobHistoryBL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:23:29.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\EmployeeBL.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\EmployeeBL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.BusinessAccessLayer\\Transaction\\EmployeeBL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:50:26.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HRMS.Management.WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Sithik\\Projects\\HRMS_Sithik\\HRMS_Application\\API_Calling\\HRMS.Management.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "HRMS.Management.WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T02:19:46.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DBMSSQLCommand.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.MSSQLDataAccess\\DBMSSQLCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.MSSQLDataAccess\\DBMSSQLCommand.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.MSSQLDataAccess\\DBMSSQLCommand.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.MSSQLDataAccess\\DBMSSQLCommand.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAuwM8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:05:31.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CoreData.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\CoreData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\CoreData.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\CoreData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\CoreData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:20:20.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICoreData.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\ICoreData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\ICoreData.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\ICoreData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.DataAccessLayer\\ICoreData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:20:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICoreData.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\ICoreData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\ICoreData.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\ICoreData.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\ICoreData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:16:52.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Constants.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Constants.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Constants.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Backend\\HRMS.Adecco.Management.CommonLayer\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:55:06.344Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Frontend\\HRMS.Adecco.Management.WinForms\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Frontend\\HRMS.Adecco.Management.WinForms\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Frontend\\HRMS.Adecco.Management.WinForms\\EmployeeDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karthik\\Projects\\Interview_Assesement\\Adecco_HMS\\Frontend\\HRMS.Adecco.Management.WinForms\\EmployeeDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:34:28.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
